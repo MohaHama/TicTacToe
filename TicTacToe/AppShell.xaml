@@ -7,7 +7,7 @@
     Title="TicTacToe">
 
     <ShellContent
-        Title="Home"
+        Title="Tic Tac Toe"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
